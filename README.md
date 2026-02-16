@@ -175,7 +175,7 @@ Based on 10-store test run:
 | FTP Upload | 401.1s | ✅ 7/10 success* |
 | **Total Runtime** | **430.5s (7.2 min)** | **95% success** |
 
-*Note: FTP timeouts normal for public test server; production Relesys FTP more reliable
+*Note: FTP timeouts normal for public test server; production FTP more reliable
 
 ## 🎓 Key Takeaway
 
